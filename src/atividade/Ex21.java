@@ -6,7 +6,7 @@ public class Ex21 {
 
         int numeroUsuario = 0;
 
-        for(int i = 1; i < 30; i++){
+        for(int i = 1; i < 10; i++){
             numeroUsuario += i;
         }
         System.out.println("Soma dos números dos usuários é: " + numeroUsuario);
